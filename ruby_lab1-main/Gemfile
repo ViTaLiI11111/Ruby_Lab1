@@ -1,0 +1,13 @@
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+
+# gem "rails"
+gem 'nokogiri'
+gem 'httparty'
+gem 'rubocop', require: false
+gem 'faker'
+gem 'mechanize'
+gem 'mongo'
+gem "sqlite3", ">= 1.4"
+gem 'logger', '~> 1.6'

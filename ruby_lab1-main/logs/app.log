@@ -1,0 +1,9 @@
+# Logfile created on 2024-12-09 14:30:41 +0200 by logger.rb/v1.6.0
+I, [2024-12-09T14:30:41.127994 #19776]  INFO -- : Website parsing started
+I, [2024-12-09T14:30:41.128382 #19776]  INFO -- : Parsing page: http://books.toscrape.com/
+I, [2024-12-09T14:30:42.157144 #19776]  INFO -- : Parsing is finished. Found 20 items.
+I, [2024-12-09T14:30:42.158079 #19776]  INFO -- : Data is save into csv file
+I, [2024-12-09T14:30:42.158526 #19776]  INFO -- : Data is save into json file
+I, [2024-12-09T14:30:42.163756 #19776]  INFO -- : Data is save into yml file
+I, [2024-12-09T14:30:42.227304 #19776]  INFO -- : Data is save into sqlite file
+I, [2024-12-09T14:30:48.001799 #19776]  INFO -- : Images are saved in d:/ruby_lab1/ruby_lab1-main/ruby_lab1-main/lib/../output/media

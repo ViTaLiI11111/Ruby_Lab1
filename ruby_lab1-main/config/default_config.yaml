@@ -1,0 +1,4 @@
+default:
+  root_dir: <%= File.expand_path('../', __FILE__) %>
+  config_dir: config
+  media_dir: media
